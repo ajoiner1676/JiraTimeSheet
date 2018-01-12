@@ -1,0 +1,612 @@
+{
+    "expand": "schema,names",
+    "startAt": 0,
+    "maxResults": 50,
+    "total": 3,
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "22934",
+            "self": "https://camgian.atlassian.net/rest/api/latest/issue/22934",
+            "key": "E2-935",
+            "fields": {
+                "worklog": {
+                    "startAt": 0,
+                    "maxResults": 20,
+                    "total": 7,
+                    "worklogs": [
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19021",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Derive pexpect recipes to drive Houston Radar drrreader program",
+                            "created": "2017-12-15T08:30:00.849-0600",
+                            "updated": "2017-12-15T08:34:06.778-0600",
+                            "started": "2017-12-12T09:00:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19021",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19022",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Further integration, demo for Nan, convey required configuration information to Scott H.",
+                            "created": "2017-12-15T08:33:03.522-0600",
+                            "updated": "2017-12-15T08:35:34.123-0600",
+                            "started": "2017-12-13T08:32:00.000-0600",
+                            "timeSpent": "4h",
+                            "timeSpentSeconds": 14400,
+                            "id": "19022",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19054",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "create daemon process using iqsched framework to process a list of houston radar sites\r\n* yaml configuration file\r\n* runs each site on independent schedule using 'cron' interval notation attribute stored with site definition\r\n\r\nTODO:\r\n* Integrate with code extracted from Jupyter demo\r\n* Derive sensor_value message,  send to rabbitmq\r\n* configure sensors into database (subset Scott's spec)",
+                            "created": "2017-12-21T08:37:34.706-0600",
+                            "updated": "2017-12-21T08:37:34.706-0600",
+                            "started": "2017-12-21T08:31:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19054",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19055",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Near code complete for sensor technology adapter, derived in part from Picomixer.\r\n\r\nResolved Houston Radar 64-bit issue.\r\n\r\nAdding the interval field is scope creep but seems desirable.\r\n\r\nTODO:\r\nIncorporate interval field for new derived sensor class.\r\nIntegration, Testing",
+                            "created": "2017-12-22T08:26:50.742-0600",
+                            "updated": "2017-12-22T08:26:50.742-0600",
+                            "started": "2017-12-21T09:00:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19055",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19077",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Bring up AWS instance of IQS, built as vagrant/puppet automation script.\r\n\r\n",
+                            "created": "2018-01-04T08:27:21.957-0600",
+                            "updated": "2018-01-04T08:27:21.957-0600",
+                            "started": "2018-01-10T10:00:00.000-0600",
+                            "timeSpent": "6h",
+                            "timeSpentSeconds": 21600,
+                            "id": "19077",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19094",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Install dependencies on AWS instance, prepare system for IQS hosting.",
+                            "created": "2018-01-10T08:14:11.485-0600",
+                            "updated": "2018-01-10T08:14:11.485-0600",
+                            "started": "2018-01-09T08:13:00.000-0600",
+                            "timeSpent": "2h",
+                            "timeSpentSeconds": 7200,
+                            "id": "19094",
+                            "issueId": "22934"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22934/worklog/19096",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Wrap up AWS hosted IQS instance configuration\r\n\r\nNeed \"play sheet\" for sustaining operations.",
+                            "created": "2018-01-11T06:14:25.905-0600",
+                            "updated": "2018-01-11T06:14:25.905-0600",
+                            "started": "2018-01-10T10:00:00.000-0600",
+                            "timeSpent": "4h",
+                            "timeSpentSeconds": 14400,
+                            "id": "19096",
+                            "issueId": "22934"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "22913",
+            "self": "https://camgian.atlassian.net/rest/api/latest/issue/22913",
+            "key": "E2-914",
+            "fields": {
+                "worklog": {
+                    "startAt": 0,
+                    "maxResults": 20,
+                    "total": 3,
+                    "worklogs": [
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22913/worklog/19067",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Backup puppet instance on inf6, create certs for puppet.iqsvpn.camgian.com\r\n\r\ncreate flask-based web service for cert creation",
+                            "created": "2017-12-27T07:43:17.903-0600",
+                            "updated": "2017-12-27T07:43:17.903-0600",
+                            "started": "2017-12-26T09:00:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19067",
+                            "issueId": "22913"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22913/worklog/19071",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Add functionality to web microservice instance:\r\n\r\n* function to revoke Puppet credentials\r\n* function to acquire IPA credentials (db persistence)",
+                            "created": "2018-01-02T08:41:35.086-0600",
+                            "updated": "2018-01-02T08:41:35.086-0600",
+                            "started": "2017-12-28T08:38:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19071",
+                            "issueId": "22913"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22913/worklog/19075",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Integration and integration testing complete, builds new systems and no hangs on certificates already issued.",
+                            "created": "2018-01-03T08:41:04.475-0600",
+                            "updated": "2018-01-03T08:41:04.475-0600",
+                            "started": "2018-01-02T10:00:00.000-0600",
+                            "timeSpent": "1d",
+                            "timeSpentSeconds": 28800,
+                            "id": "19075",
+                            "issueId": "22913"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+            "id": "22794",
+            "self": "https://camgian.atlassian.net/rest/api/latest/issue/22794",
+            "key": "E2-795",
+            "fields": {
+                "worklog": {
+                    "startAt": 0,
+                    "maxResults": 20,
+                    "total": 3,
+                    "worklogs": [
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22794/worklog/18912",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Use Muthu's BOM spreadsheet for ERDC 1B  to derive draft BOM for Markland, update prices.\r\n\r\nCirculate for review.",
+                            "created": "2017-11-17T07:15:03.766-0600",
+                            "updated": "2017-11-17T07:15:03.766-0600",
+                            "started": "2017-11-16T08:00:00.000-0600",
+                            "timeSpent": "2h",
+                            "timeSpentSeconds": 7200,
+                            "id": "18912",
+                            "issueId": "22794"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22794/worklog/18997",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Prepare installation media, disk images, test.",
+                            "created": "2017-12-07T08:32:13.744-0600",
+                            "updated": "2017-12-07T08:32:13.744-0600",
+                            "started": "2017-12-06T09:00:00.000-0600",
+                            "timeSpent": "4h",
+                            "timeSpentSeconds": 14400,
+                            "id": "18997",
+                            "issueId": "22794"
+                        },
+                        {
+                            "self": "https://camgian.atlassian.net/rest/api/2/issue/22794/worklog/19093",
+                            "author": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "updateAuthor": {
+                                "self": "https://camgian.atlassian.net/rest/api/2/user?username=Jhicks",
+                                "name": "Jhicks",
+                                "key": "jhicks",
+                                "accountId": "557058:3116970d-21c0-414b-891c-8e7f41b10777",
+                                "emailAddress": "jhicks@camgian.com",
+                                "avatarUrls": {
+                                    "48x48": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=48&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D48%26noRedirect%3Dtrue",
+                                    "24x24": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=24&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D24%26noRedirect%3Dtrue",
+                                    "16x16": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=16&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D16%26noRedirect%3Dtrue",
+                                    "32x32": "https://avatar-cdn.atlassian.com/3d212a4c29dca1bac3515fd316c9caf0?s=32&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F3d212a4c29dca1bac3515fd316c9caf0%3Fd%3Dmm%26s%3D32%26noRedirect%3Dtrue"
+                                },
+                                "displayName": "Jerry Hicks",
+                                "active": true,
+                                "timeZone": "America/Chicago"
+                            },
+                            "comment": "Installed software and provisioned.\r\n\r\n* Modem is not active, information conveyed to Scott Guerry and Scott Stanton, resolution underway.\r\n\r\n* Lab meeting with Matt, Muthu to assess layout.  Matt is assembling unit.",
+                            "created": "2018-01-10T08:10:19.410-0600",
+                            "updated": "2018-01-10T08:10:19.410-0600",
+                            "started": "2018-01-08T08:07:00.000-0600",
+                            "timeSpent": "4h",
+                            "timeSpentSeconds": 14400,
+                            "id": "19093",
+                            "issueId": "22794"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
