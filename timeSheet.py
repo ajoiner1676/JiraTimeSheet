@@ -22,10 +22,16 @@ def main():
     resp = requests.get(build_url(usrName, startDate, finishDate), auth = (usrName, passWrd)).json()
 
     #sort through dates and print out times for each project
-    print('Author: ' + resp['issues'][0]['fields']['worklog']['worklogs'][0]['author']['key'])
-    print('Date: ' + resp['issues'][0]['fields']['worklog']['worklogs'][0]['created'])
-    print('Time: ' + resp['issues'][0]['fields']['worklog']['worklogs'][0]['timeSpent'])
-    return 0
+    
+    numIssues = resp['total']
+
+    for x in range(0, numIssues):
+        numLogs = resp['issues'][x]['fields']['worklog']['total']
+        for y in range(0, numLogs):
+            print('Issue: ' + resp['issues'][x]['key'])
+            print('Author: ' + resp['issues'][x]['fields']['worklog']['worklogs'][y]['author']['key'])
+            print('Date: ' + resp['issues'][x]['fields']['worklog']['worklogs'][y]['created'])
+            print('Time: ' + resp['issues'][x]['fields']['worklog']['worklogs'][y]['timeSpent'])
 
 if __name__=='__main__':
     sys.exit(main())
