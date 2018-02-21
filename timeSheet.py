@@ -1,4 +1,5 @@
 import sys
+import copy
 from datetime import datetime, timedelta, date
 import requests
 
@@ -17,7 +18,7 @@ def build_date(pCode, begin, end):
     dates = {}
     duration = int(str((end - begin).days))
     for d in range(0, duration + 1):
-        dates[(begin + timedelta(days=d))] = pCode
+        dates[(begin + timedelta(days=d))] = copy.deepcopy(pCode)
     return dates
 
 def main():
